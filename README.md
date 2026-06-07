@@ -1,16 +1,6 @@
 <div style="line-height: 2px;" align="center">
-  <img src="https://gabestash.neocities.org/dividers/monochrome/mono109.gif"><br>
+  <img src="https://fbi.cults3d.com/uploaders/25181396/illustration-file/a0005140-2c54-4369-8f59-fc446fb072ba/Boeing-AH-64-D-Apache.gif"><br>
   <br>
-  <b>RORY</b><br>
-  or kip
-<p align="center">
-  19 he/him
-  <br>
-  17+ to befriend, 16 and under can interact casually<br>
-  usually off tab doing whatever, whisper me to get my attention
-  <br>
-  <br>
-  <img src="https://adriansblinkiecollection.neocities.org/y39.gif" alt="wiki"><img src="https://adriansblinkiecollection.neocities.org/x46.gif"><img src="https://adriansblinkiecollection.neocities.org/y44.gif"><br>
-  <img src="https://adriansblinkiecollection.neocities.org/stamps/b74.png"><img src="https://adriansblinkiecollection.neocities.org/stamps/c1.gif"><img src="https://adriansblinkiecollection.neocities.org/stamps/b9.gif"><img src="https://adriansblinkiecollection.neocities.org/stamps/b49.jpg">
+  <b>I AM REDOING THIS! enjoy an AH-64 Apache in the meantime</b><br>
 </p>
 </div>
