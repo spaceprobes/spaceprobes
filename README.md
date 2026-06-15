@@ -1,5 +1,5 @@
 <div style="line-height: 2px;" align="center">
-  <h2>FOLLOW MY ARTFIGHT!!<BR>
+  <h2>FOLLOW MY ARTFIGHT!!</h2>
     I MIGHT attack you eyes emoji <br>
   <img src="https://file.garden/aiBEG24PQBWh7li2/IMG_5557.png"><br><br>
     <hr>
