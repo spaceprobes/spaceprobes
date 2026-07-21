@@ -3,6 +3,6 @@
   <br>
   <b>I AM REDOING THIS! enjoy a UH-60 Black Hawk in the meantime</b><br>
   No1 Alex Keller fan, don't you forget it..<br><br>
-  follow my <a href="artfight.net/~fleshandmetal">artfight</a> if u so wish..
+  see my <a href="https://fluffle.cc/stayfrosty">pony town info</a> and maybe follow my <a href="artfight.net/~fleshandmetal">artfight</a> if u so wish..
 </p>
 </div>
