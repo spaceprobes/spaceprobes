@@ -30,7 +30,7 @@
 
   </table>
 <div align="center">
-<table width="280" align="center">
+<table width="220" align="center">
 <tr>
 
 
@@ -41,7 +41,7 @@
 </p>
 
 
-<table width="220">
+<table width="180">
 <tr>
 <td text-align="center">
 <img src="https://img.shields.io/badge/Alex_Keller's-number_1_fan-white?labelColor=%23000000">
