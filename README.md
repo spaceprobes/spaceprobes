@@ -30,7 +30,7 @@
 
   </table>
 <div align="center">
-<table>
+<table width="280" align="center">
 <tr>
 
 
