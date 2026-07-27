@@ -43,13 +43,13 @@
 
 <table width="180">
 <tr>
-<td style="width:180px; text-align="center">
+<td style="text-align="center">
 <img src="https://img.shields.io/badge/Alex_Keller's-number_1_fan-white?labelColor=%23000000">
 <br>
  ⌞ <b>  RORY</b>‎ . NINETEEN .  HE/HIM ⌝<br>
   <img src="https://file.garden/aiBEG24PQBWh7li2/GhostProvidesCover_CallingCard_MWII.webp"><br>
     $\color{#71797E}\textsf{ᡕᠵデ气亠  🇵🇷}$<br>
-<p>No1 USA glazer, EXCEPT the gorvenment 😒</p> <p>C+H and W2I always, usually at the cod area. Come say hi<br> if you want, I need friends sobbingemoji.. </p>
+    US Military, SWAT and tactical lover
   
   <img class="text-emoticon" src="https://gabestash.neocities.org/favicons/monochrome/mono372.gif" alt="explode">
 
