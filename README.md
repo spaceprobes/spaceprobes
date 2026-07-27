@@ -43,16 +43,24 @@
 
 <table width="180">
 <tr>
-<td style="text-align="center">
+<td style="text-align: center">
 <img src="https://img.shields.io/badge/Alex_Keller's-number_1_fan-white?labelColor=%23000000">
 <br>
  ⌞ <b>  RORY</b>‎ . NINETEEN .  HE/HIM ⌝<br>
   <img src="https://file.garden/aiBEG24PQBWh7li2/GhostProvidesCover_CallingCard_MWII.webp"><br>
     $\color{#71797E}\textsf{ᡕᠵデ气亠  🇵🇷}$<br>
-    US Military, SWAT and tactical lover
-  
-  <img class="text-emoticon" src="https://gabestash.neocities.org/favicons/monochrome/mono372.gif" alt="explode">
+<div align="left">
+    US Military, SWAT and tactical lover<br>
+> W2I and C+H always <br>
+> under 16 iwc
+  <details>
+<summary>Hesh jumpscare</summary>
 
+<img src="https://file.garden/aiBEG24PQBWh7li2/3d9a4dd418118d575c52a85dd131f407.jpg" width="150px;">
+
+</details>
+</div>
+  <img class="text-emoticon" src="https://gabestash.neocities.org/favicons/monochrome/mono372.gif" alt="explode">
 </td>
 </tr>
 </table>
