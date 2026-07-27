@@ -41,7 +41,7 @@
 </p>
 
 
-<table style="width: 100px;">
+<table width="220">
 <tr>
 <td text-align="center">
 <img src="https://img.shields.io/badge/Alex_Keller's-number_1_fan-white?labelColor=%23000000">
