@@ -34,7 +34,7 @@
 <tr>
 
 
-<td width="360" align="middle">
+<td width="250" align="center">
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=17&pause=500&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&lines=%22Even+in+dark+times%2C+we+cannot+relinquish;the+things+that+make+us+human.%22" alt="Typing SVG" /></a>
