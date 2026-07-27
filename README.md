@@ -49,7 +49,12 @@
  ⌞ <b>  RORY</b>‎ . NINETEEN .  HE/HIM ⌝<br>
   <img src="https://file.garden/aiBEG24PQBWh7li2/GhostProvidesCover_CallingCard_MWII.webp"><br>
     $\color{#71797E}\textsf{ᡕᠵデ气亠  🇵🇷}$<br>
-f<br>
+No1 USA glazer,<br>
+EXCEPT the government 😒<br>
+C+H and W2I always,<br>
+usually at the COD area.<br>
+Come say hi if you want.<br>
+  
   <img class="text-emoticon" src="https://gabestash.neocities.org/favicons/monochrome/mono372.gif" alt="explode">
 
 </td>
