@@ -72,4 +72,6 @@
 <img src="https://64.media.tumblr.com/000fb17d15fe39e5b98fa84c7f4fa847/c1368e61d5e95f45-87/s250x400/0bd2400a04a8855b77ff2eaf891e8f2ddd0f169f.gifv">
 
 </div>
+<img src="https://file.garden/aiBEG24PQBWh7li2/IMG_5694.png">
+<p align="right">art by me...</p>
 </div>
