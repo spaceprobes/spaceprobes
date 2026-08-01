@@ -1,3 +1,4 @@
+<!-- feel free to copy ths messy ass code i dont give a darn -->
 last updated: 07/31/26
   <table border="0" align="left">
     <tr align="center"></tr>
