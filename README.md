@@ -1,5 +1,10 @@
 <!-- feel free to copy ths messy ass code i dont give a darn -->
-last updated: 07/31/26
+last updated: 08/04/26
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316hrjitot5yflcag3sg6y6jg4wi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
   <table border="0" align="left">
     <tr align="center"></tr>
       <th>
