@@ -79,6 +79,7 @@ last updated: 08/04/26
 <img src="https://64.media.tumblr.com/000fb17d15fe39e5b98fa84c7f4fa847/c1368e61d5e95f45-87/s250x400/0bd2400a04a8855b77ff2eaf891e8f2ddd0f169f.gifv">
 
 </div>
-<img src="https://file.garden/aiBEG24PQBWh7li2/IMG_5694.png">
-<p align="right">art by me...</p>
+<p align="center">
+<img src="https://file.garden/aiBEG24PQBWh7li2/tumblr_48e363dd17360e7de5e0535b255167a9_45a8025d_640.gif">
+</p>
 </div>
