@@ -1,5 +1,5 @@
 <!-- feel free to copy ths messy ass code i dont give a darn -->
-last updated: 08/10/26 - i LOOOOOVE ac7
+last updated: 08/13/26 - godzilla
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316hrjitot5yflcag3sg6y6jg4wi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
@@ -80,6 +80,6 @@ last updated: 08/10/26 - i LOOOOOVE ac7
 
 </div>
 <p align="center">
-<img src="https://file.garden/aiBEG24PQBWh7li2/tumblr_48e363dd17360e7de5e0535b255167a9_45a8025d_640.gif">
+<img src="https://file.garden/aiBEG24PQBWh7li2/IMG_4514-ezgif.com-optimize.gif">
 </p>
 </div>
