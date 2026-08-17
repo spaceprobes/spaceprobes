@@ -14,8 +14,9 @@
 <img src="https://views.igorkowalczyk.dev/api/badge/spaceprobes?style=flat" align="right"><br>
         <!-- VIEWS BADGE -->
         <img src="https://i.pinimg.com/1200x/9e/47/98/9e4798a40ca4b3cfb18ea8bafc6adf9a.jpg" width="100"><br>
-        <p>temporary layout</p>
-        <p align="center"><h3>$\color{#38D3E8}\textsf{RORY / 19 / HE/HIM}$</h3></p>
+        <p><i>ᵗᵉᵐᵖᵒʳᵃʳʸ ˡᵃʸᵒᵘᵗ</i><br>
+        $\color{#38D3E8}\textsf{RORY / 19 / HE/HIM}$
+        </p>
         <p align="left"> > W2I and C+H always<br>
                          > under 16 IWC <br>
                          > Check strawpages for further info <br>
