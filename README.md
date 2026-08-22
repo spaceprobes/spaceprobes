@@ -1,4 +1,4 @@
-WIP STILL
+<p> $\color{#2D9CA8}\textsf{"Monsters are tragic beings. They are born too tall, too strong and too heavy...}$ </p>
 <div align="center">
 <table width="220" align="center">
 <tr>
@@ -36,3 +36,4 @@ WIP STILL
 </tr>
 </table>
 </div>
+<p align="right"> $\color{#A84E2D}\textsf{...They aren't evil by choice. That is their tragedy."}$ </p>
