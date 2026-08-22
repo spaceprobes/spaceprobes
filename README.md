@@ -4,7 +4,7 @@
 <tr>
   
 <td>
-  <img src="https://i.pinimg.com/736x/01/77/c9/0177c97805a96281231e6998e2468a65.jpg" width="340px"> <br>
+  <img src="https://i.pinimg.com/736x/01/77/c9/0177c97805a96281231e6998e2468a65.jpg" width="300px"> <br>
 </td>
   
   <td <td align="center" valign="top">
@@ -32,7 +32,7 @@
 </td>
   
   <td>
-  <img src="https://file.garden/aiBEG24PQBWh7li2/048a57e622dda0b09af4a5b8869fe05f(1).jpg" width="340px"><br>
+  <img src="https://file.garden/aiBEG24PQBWh7li2/048a57e622dda0b09af4a5b8869fe05f(3).jpg" width="300px"><br>
 </td>
   
 </tr>
