@@ -26,7 +26,7 @@
     </p>
     <details>
       <summary>$\color{#2D9CA8}\textsf{LINKS}$</summary>
-      <a href="https://ponydottown.straw.page/">pt straw</a> <a href="https://americansoldier.straw.page/">main straw</a> <a href="https://kingofthemonsters.straw.page/">straw2</a> <a href="https://charliefoxtrot.atabook.org/">ata</a> <a href="https://frail.lol/kingofthemonsters">other links</a>
+      <a href="https://americansoldier.straw.page/">main straw</a> <a href="https://kingofthemonsters.straw.page/">straw2</a> <a href="https://charliefoxtrot.atabook.org/">ata</a> <a href="https://frail.lol/kingofthemonsters">other links</a>
     </details>
        $\color{#6C8F93}\textsf{────────}$
 </td>
