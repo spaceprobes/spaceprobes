@@ -4,11 +4,11 @@
 <tr>
   
 <td>
-  <img src="https://i.pinimg.com/736x/01/77/c9/0177c97805a96281231e6998e2468a65.jpg" width="350px"> <br>
+  <img src="https://i.pinimg.com/736x/01/77/c9/0177c97805a96281231e6998e2468a65.jpg" width="300px"> <br>
 </td>
   
   <td <td align="center" valign="top">
-    <hr>
+    $\color{#6C8F93}\textsf{────────}$<br>
     $\color{#2D9CA8}\textsf{RORY}$ / $\color{#A84E2D}\textsf{NINETEEN}$ / $\color{#2D9CA8}\textsf{HE/HIM}$<br><br>
     <img src="https://static.wikia.nocookie.net/callofduty/images/0/0e/BarrelRoll_CallingCard_MWIII.gif/revision/latest/scale-to-width-down/300?cb=20240919153453"> <br>
     <p align="left"> > $\color{#A84E2D}\textsf{W2I}$ / $\color{#2D9CA8}\textsf{C+H}$ always.<br>
@@ -28,11 +28,11 @@
       <summary>$\color{#2D9CA8}\textsf{LINKS}$</summary>
       <a href="https://ponydottown.straw.page/">pt straw</a> <a href="https://americansoldier.straw.page/">main straw</a> <a href="https://kingofthemonsters.straw.page/">straw2</a> <a href="https://charliefoxtrot.atabook.org/">ata</a> <a href="https://frail.lol/kingofthemonsters">other links</a>
     </details>
-        <hr>
+       $\color{#6C8F93}\textsf{────────}$
 </td>
   
   <td>
-  <img src="https://file.garden/aiBEG24PQBWh7li2/048a57e622dda0b09af4a5b8869fe05f(1).jpg" width="350px"><br>
+  <img src="https://file.garden/aiBEG24PQBWh7li2/048a57e622dda0b09af4a5b8869fe05f(1).jpg" width="310px"><br>
 </td>
   
 </tr>
