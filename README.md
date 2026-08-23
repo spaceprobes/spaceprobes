@@ -1,10 +1,11 @@
 <p> $\color{#2D9CA8}\textsf{"Monsters are tragic beings. They are born too tall, too strong and too heavy...}$ </p>
+<img src="https://i.pinimg.com/1200x/67/29/10/6729105953cc693c85a4af8fdd496868.jpg" width="1000px">
 <div align="center">
 <table width="220" align="center">
 <tr>
   
 <td>
-  <img src="https://i.pinimg.com/736x/01/77/c9/0177c97805a96281231e6998e2468a65.jpg" width="300px"> <br>
+  <img src="https://i.pinimg.com/736x/01/77/c9/0177c97805a96281231e6998e2468a65.jpg" width="300px" align="center"> <br>
 </td>
   
   <td <td align="center" valign="top">
@@ -38,4 +39,5 @@
 </tr>
 </table>
 </div>
+<img src="https://i.pinimg.com/1200x/f2/21/f1/f221f139a6359c3caad27902b3b6cf22.jpg" width="1000px" align="center">
 <p align="right"> $\color{#A84E2D}\textsf{...They aren't evil by choice. That is their tragedy."}$ </p>
