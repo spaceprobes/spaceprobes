@@ -1,5 +1,5 @@
 > [!NOTE]
-> In my second year of college(ew) so I might be less active.
+> lowk only have 4 easy classes this semester hashtag win
 <p> $\color{#2D9CA8}\textsf{"Monsters are tragic beings. They are born too tall, too strong and too heavy...}$ </p>
 <img src="https://i.pinimg.com/1200x/67/29/10/6729105953cc693c85a4af8fdd496868.jpg" width="1000px">
 <div align="center">
