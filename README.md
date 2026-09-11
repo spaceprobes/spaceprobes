@@ -16,7 +16,7 @@
     <img src="https://static.wikia.nocookie.net/callofduty/images/0/0e/BarrelRoll_CallingCard_MWIII.gif/revision/latest/scale-to-width-down/300?cb=20240919153453"> <br>
     <p align="left"> > $\color{#A84E2D}\textsf{W2I}$ / $\color{#2D9CA8}\textsf{C+H}$ always.<br>
     > $\color{#2D9CA8}\textsf{Under}$ $\color{#A84E2D}\textsf{16}$ IWEC.<br>
-    > $\color{#A84E2D}\textsf{Mostly}$ on the $\color{#2D9CA8}\textsf{safe server}$
+    > $\color{#A84E2D}\textsf{Mostly}$ on the $\color{#2D9CA8}\textsf{safe server}$ sometimes on $\color{#A84E2D}\textsf{18+}$
     </p>
     <p align="right">I $\color{#A84E2D}\textsf{don't}$ exactly have a DNI,<br>
       just don't be a $\color{#2D9CA8}\textsf{proshipper}$,<br>
