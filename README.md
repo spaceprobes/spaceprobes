@@ -1,5 +1,5 @@
 > [!NOTE]
-> lowk only have 4 easy classes this semester hashtag win
+> college is kinda kicking my ass rn plus im focused on other things such as enlisting in the air force! not really on as much
 <p> $\color{#2D9CA8}\textsf{"Monsters are tragic beings. They are born too tall, too strong and too heavy...}$ </p>
 <img src="https://i.pinimg.com/1200x/67/29/10/6729105953cc693c85a4af8fdd496868.jpg" width="1000px">
 <div align="center">
