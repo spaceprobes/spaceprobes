@@ -5,6 +5,6 @@
     wip if u couldnt tell..<br>
     fine w c+h<br>
     whisper 2 int<br>
-    i luv bioshock
+    loving overwatch, titanfall and ark at the moment
 </p>
 </div>
