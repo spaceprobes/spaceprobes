@@ -1,6 +1,6 @@
 <div align="left">
 <img src="https://file.garden/ZzD4fVGDvi9XVNHt/bigdaddy.png" align="left" width="400"> <p align="left">
-  $\color{#ffea02}{\text{rory / 19 / he/him}}$<br>
+  $\color{#ffea02}\textsf{rory / 19 / he/him}$<br>
     <hr>
     wip if u couldnt tell..<br>
     fine w c+h<br>
