@@ -5,6 +5,6 @@
     wip if u couldnt tell..<br>
     fine w c+h<br>
     whisper 2 int<br>
-    loving overwatch, titanfall and ark at the moment
+    loving overwatch, titanfall, ark and 17776 at the moment
 </p>
 </div>
