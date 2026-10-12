@@ -1,7 +1,7 @@
 <div align="left">
 <img src="https://file.garden/ZzD4fVGDvi9XVNHt/bigdaddy.png" align="left" width="400"> <p align="left">
   $\color{#ffea02}\textsf{rory / 19 / he/him}$<br>
-  > finally living up to my username
+  $\color{#56565C}\textsf{> finally living up to my username}$
     <hr>
     wip if u couldnt tell..<br>
     fine w c+h<br>
