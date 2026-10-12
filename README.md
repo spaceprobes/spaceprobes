@@ -5,7 +5,7 @@
     wip if u couldnt tell..<br>
     fine w c+h<br>
     whisper 2 int<br>
-  sit w me, kiss me, boop me, i lowk dgaf but you wont get my attention unless you whisper me
+  sit w me, kiss me, boop me, i lowk dgaf but you wont get my attention unless you whisper me<br>
     loving overwatch, titanfall, ark and 17776 at the moment
 </p>
 </div>
