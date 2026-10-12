@@ -2,10 +2,9 @@
 <img src="https://file.garden/ZzD4fVGDvi9XVNHt/bigdaddy.png" align="left" width="400"> <p align="left">
   <b>$\color{#ffea02}{\text{rory / 19 / he/him}}$</b><br>
     <hr>
-    $\color{#ffea02}{\text{wip if u couldnt tell..<br>
+    wip if u couldnt tell..<br>
     fine w c+h<br>
     whisper 2 int<br>
-    loving overwatch, titanfall, ark and 17776 at the moment}}$
+    loving overwatch, titanfall, ark and 17776 at the moment
 </p>
 </div>
-ffea02 
