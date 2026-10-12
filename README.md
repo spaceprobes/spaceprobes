@@ -3,7 +3,7 @@
   $\color{#ffea02}\textsf{rory / 19 / he/him}$<br>
   $\color{#56565C}\textsf{> finally living up to my username}$
     <hr>
-    wip if u couldnt tell..<br>
+  im leaving this as is im lazy<br>
     fine w c+h<br>
     whisper 2 int<br>
   sit w me, kiss me, boop me, i lowk dgaf but you wont get my attention unless you whisper me<br>
