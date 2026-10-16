@@ -18,6 +18,10 @@
       <a href="https://spaceprobe.atabook.org/">atabook</a>
       &nbsp;
       <a href="https://frail.lol/spaceprobe">frail.lol</a>
+      &nbsp;
+      <a href="justdolt.straw.page">strawpage</a>
+      &nbsp;
+      <a href="https://pronouns.cc/@mekakaiju">prns</a>
     </td>
   </tr>
 </table>
