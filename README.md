@@ -1,7 +1,7 @@
 <div align="left">
 <img src="https://file.garden/ZzD4fVGDvi9XVNHt/bigdaddy.png" align="left" width="400"> <p align="left">
   $\color{#ffea02}\textsf{rory / 19 / he/him}$ $\color{#56565C}\textsf{—}$ working on links<br>
-  $\color{#56565C}\textsf{> i love bioshock sm its :( :( :( :( :(}$
+  $\color{#56565C}\textsf{> and he carried the ocean on his shoulders}$
     <hr>
   im leaving this as is im lazy<br>
     fine w c+h<br>
