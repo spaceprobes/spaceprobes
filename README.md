@@ -7,7 +7,7 @@
     <table>
       <tr></tr>
       <th>
-        $\color{#ffea02}\textsf{currently loving}$ : overwatch, titanfall 2, ark<br>
+        $\color{#ffea02}\textsf{currently loving}$ : paladins, titanfall 2, ark<br>
         $\color{#4CBB17}\textsf{forever and always, bioshock}$
       </th>
     </table>
